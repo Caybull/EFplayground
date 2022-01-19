@@ -23,4 +23,33 @@ namespace EFExampleWithContextInModels.Models
 
         public virtual Staff Staff { get; set; }
     }
+
+   
+        public class TeacherDto
+        {
+            public int StaffId { get; set; }
+            public string Speciatly { get; set; }
+            public string TeacherName { get; set; }
+
+            public virtual Staff Staff { get; set; }
+        }
+    
+
+   
+        public class TeacherDetailDto
+        {
+       
+        public int StaffId { get; set; }
+
+        
+        public string Specialty { get; set; }
+
+        
+        public string TeacherName { get; set; }
+
+        public int? TeacherAge { get; set; }
+
+        public virtual Staff Staff { get; set; }
+    }
+    
 }

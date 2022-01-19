@@ -18,4 +18,9 @@ namespace EFExampleWithContextInModels.Models
 
         public virtual StudentCourse StudentCourse { get; set; }
     }
+
+
+    
+       
+    
 }
