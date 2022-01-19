@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d2e4d51c-a08d-45ad-97ff-d36c06bb9002": {
+      "ProjectGuid": "d2e4d51c-a08d-45ad-97ff-d36c06bb9002",
+      "DisplayName": "EFExampleWithContextInModels",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
